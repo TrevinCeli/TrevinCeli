@@ -1,6 +1,4 @@
 ```
-trevin.config     github   •   linkedin   •   email
-
 // Computer Science & Artificial Intelligence
 // Primary focus: "Building technology that impacts humanity"
 
