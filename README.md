@@ -1,16 +1,48 @@
-## Hi there 👋
+```
+trevin.config     github   •   linkedin   •   email
 
-<!--
-**TrevinCeli/TrevinCeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// Computer Science & Artificial Intelligence
+// Primary focus: "Building technology that impacts humanity"
 
-Here are some ideas to get you started:
+system_identity {
+  user         = "Trevin Celi"
+  role         = "Computer Science Student"
+  availability = "Learning & Building"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  mindset = {
+    vision      : "Long-term thinker",
+    philosophy  : "The journey matters more than the destination",
+    interests   : ["Space", "AI", "Distributed Systems", "Science"],
+    objective   : "Create useful technology with real-world impact"
+  }
+
+  technologies = {
+    languages : ["Java", "C++", "Python", "JavaScript", "PHP"],
+    
+    backend   : ["Node.js", "REST APIs", "SQL"],
+    
+    frontend  : ["HTML", "CSS", "JavaScript"],
+    
+    systems   : ["GNU/Linux", "Bash", "SSH", "Memory Management"],
+    
+    concepts  : [
+      "Algorithms",
+      "Object-Oriented Programming",
+      "AI & Image Detection",
+      "System Architecture"
+    ]
+  }
+
+  current_arc = {
+    education : "L2 Computer Science",
+    
+    projects  : [
+      "Cancer detection AI research",
+      "Software engineering projects",
+      "Distributed & scalable systems learning"
+    ],
+
+    long_term_goal : "Contribute to space and medical technology"
+  }
+}
+```
